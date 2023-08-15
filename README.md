@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **Politeknik Negeri Jember**
 
-- 🌱 I’m currently learning **I'm learning HTML CSS, Java, Android, and maybe many more languages ​​I want to learn.**
+- 🌱 I’m currently learning **I'm learning HTML CSS, Java, Flutter, and maybe many more languages ​​I want to learn.**
 
 - 📫 How to reach me **arfanraja89@gmail.com**
 
